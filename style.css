@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.header{
+    display: flex;
+    justify-content: center;
+    margin-top: 400px;
+}
+
+
+.secundamer{
+    color: white;
+    font-size: 45px;
+    padding-bottom: 20px;
+
+}
+
+
+.main{
+    display: flex;
+    justify-content: center;
+}
+
+
+.start{
+    margin-right: 10px;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+}
+
+
+.stopp{
+    background-color: white;
+    color: black;
+    font-size: 20px;
+}
+
+
+.restart{
+    margin-left: 10px;
+    background-color: white;
+    color: black;
+    font-size: 20px;
+}
